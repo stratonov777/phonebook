@@ -37,11 +37,6 @@ CREATE TABLE `user` (
 -- Dumping data for table `user`
 --
 
-INSERT INTO `user` (`userid`, `firstname`, `lastname`, `address`) VALUES
-(1, 'neovic', 'devierte', 'silay city'),
-(2, 'dee', 'tolentino', 'bacolod city'),
-(4, 'julyn', 'divinagracia', 'eb magalona'),
-(6, 'lee', 'ann', 'employee sudb');
 
 --
 -- Indexes for dumped tables
